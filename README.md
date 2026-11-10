@@ -1,6 +1,7 @@
 # AI-Assisted Learning Module: FX Global Code
 
 **Personal project (2026) · Beatrice Greif, CFA**
+
 Status: in progress
 
 ## Goal
@@ -15,7 +16,7 @@ A trader or supervisor new to the FX Global Code needs a short, reliable way to 
 The prompts used are documented in [prompts.md](prompts.md).
 
 ## Scope
-Selected principles from the **Execution** and **Information Sharing** sections of the FX Global Code. The full Code is not reproduced here; it is published by the Global Foreign Exchange Committee (GFXC) at [globalfxc.org](https://www.globalfxc.org).
+Six principles from the **Execution** (11 Pre-Hedging, 14 Mark Up, 17 Last look) and **Information Sharing** (19 and 20 Confidential Information, 22 Market Colour) sections of the FX Global Code, version updated December 2024. The full Code is not reproduced here; it is published by the Global Foreign Exchange Committee (GFXC) at [globalfxc.org](https://www.globalfxc.org).
 
 ## Results
 _To be completed after validation: number of items generated, number of errors found by type and severity, and the main lessons._

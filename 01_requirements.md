@@ -14,7 +14,7 @@ After the module, the learner can:
 3. Name where to find the official text for further detail.
 
 ## 3. Scope
-- **In scope:** a selection of 3–6 principles from the Execution and Information Sharing sections.
+- **In scope:** Principles 11, 14 and 17 (Execution) and 19, 20 and 22 (Information Sharing) of the FX Global Code, version updated December 2024.
 - **Out of scope:** the full Code, legal interpretation, firm-specific policies.
 
 ## 4. Deliverables
